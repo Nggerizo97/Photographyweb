@@ -1,0 +1,37 @@
+{
+  "name": "ngg-lens",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Photography portfolio of Nicolas Guarin Gaviria — engineered brutalism meets fine-art gallery.",
+  "scripts": {
+    "ingest": "node scripts/ingest.mjs",
+    "dev": "node scripts/ingest.mjs && astro dev",
+    "build": "node scripts/ingest.mjs && astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@astrojs/react": "^7.1.4",
+    "@astrojs/sitemap": "^3.7.4",
+    "@fontsource-variable/inter-tight": "^5.3.0",
+    "@fontsource-variable/jetbrains-mono": "^5.3.0",
+    "@fontsource/instrument-serif": "^5.3.0",
+    "@tailwindcss/vite": "^4.3.5",
+    "astro": "^7.4.7",
+    "exifr": "^7.1.3",
+    "motion": "^14.10.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4.3.5"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.12",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^6.0.3",
+    "vitest": "^5.1.0"
+  }
+}
