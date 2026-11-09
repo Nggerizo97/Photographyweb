@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.local
+.env
+*.stackdump
+
+# Originals stay on this machine. Only the curated web derivatives in public/photos are published.
+/image/

@@ -1,0 +1,223 @@
+{
+  "hero": "CH-05",
+  "portrait": {
+    "slug": "operator",
+    "source": "DSC05898.jpg",
+    "alt": "The photographer in a dark suit with hair tied back, on a phone call, standing among broad garden leaves at dusk with warm lights in the background."
+  },
+  "series": [
+    {
+      "code": "ST",
+      "index": "01",
+      "name": "Structural Tension",
+      "thesis": "Load, axis, repetition. The engineering was always visible. Most people look at the decoration."
+    },
+    {
+      "code": "AL",
+      "index": "02",
+      "name": "Altitude",
+      "thesis": "Systems with no operator. Rock, fog and water at scales the body cannot estimate."
+    },
+    {
+      "code": "SN",
+      "index": "03",
+      "name": "Signal / Noise",
+      "thesis": "Streets run at a terrible signal-to-noise ratio. The frame is the filter."
+    },
+    {
+      "code": "CH",
+      "index": "04",
+      "name": "Chiaroscuro",
+      "thesis": "Light as a scarce resource. Whatever it does not reach is allowed to underflow to black."
+    }
+  ],
+  "photos": [
+    {
+      "id": "ST-01",
+      "source": "PSX_20240728_144911.jpg",
+      "series": "ST",
+      "title": "Moment Arm",
+      "tags": ["mono", "concrete", "cable"],
+      "alt": "Black and white view straight up a tapering concrete tower that leans and flares against a blank sky, a dark vertical channel running up its spine.",
+      "col": "1 / span 5",
+      "align": "end",
+      "offset": 0
+    },
+    {
+      "id": "ST-02",
+      "source": "20260613_125836.jpg",
+      "series": "ST",
+      "title": "Recursion",
+      "tags": ["spiral", "steel", "concrete"],
+      "alt": "Looking up an orange steel spiral staircase coiling through a raw concrete shaft, its metal handrails tightening toward the centre.",
+      "col": "7 / span 6",
+      "align": "end",
+      "offset": 0
+    },
+    {
+      "id": "ST-03",
+      "source": "DSC04734.jpg",
+      "series": "ST",
+      "title": "Axial Load",
+      "tags": ["axis", "stone", "mono"],
+      "alt": "Black and white view straight up the central staircase of a stepped stone pyramid, its terraces cutting horizontal bands across the frame.",
+      "col": "1 / span 8",
+      "align": "start",
+      "offset": 0
+    },
+    {
+      "id": "ST-04",
+      "source": "20230202_171212.jpg",
+      "series": "ST",
+      "title": "Split Horizon",
+      "tags": ["glass", "reflection", "traffic"],
+      "alt": "A curving urban highway seen from height, split down the middle by the edge of a glass facade that mirrors the road and sky back on itself.",
+      "col": "9 / span 4",
+      "align": "end",
+      "offset": 0
+    },
+    {
+      "id": "AL-01",
+      "source": "PSX_20240728_142938~2.jpg",
+      "series": "AL",
+      "title": "Occlusion",
+      "tags": ["mono", "fog", "ridge"],
+      "alt": "Black and white. A snow-dusted mountain ridge surfacing through thick cloud above a dark line of conifers.",
+      "col": "1 / span 12",
+      "align": "start",
+      "offset": 0
+    },
+    {
+      "id": "AL-02",
+      "source": "20260615_094451.jpg",
+      "series": "AL",
+      "title": "Observer",
+      "tags": ["figure", "ash", "overcast"],
+      "alt": "A hooded figure seen from behind standing on a boulder, looking across a grey volcanic valley ringed by rock walls under flat cloud.",
+      "col": "2 / span 4",
+      "align": "end",
+      "offset": 0
+    },
+    {
+      "id": "AL-03",
+      "source": "DSC08452-Enhanced-NR040724.jpg",
+      "series": "AL",
+      "title": "Snow Line",
+      "tags": ["glacial", "lake", "framing"],
+      "alt": "A wall of snow-streaked peaks above a turquoise glacial lake, framed by dark conifers and an overhanging branch.",
+      "col": "6 / span 7",
+      "align": "end",
+      "offset": 0
+    },
+    {
+      "id": "AL-04",
+      "source": "20230929_091346~2 (2).jpg",
+      "series": "AL",
+      "title": "Deprecated Path",
+      "tags": ["forest", "stairs", "low-key"],
+      "alt": "Worn stone steps climbing into a dark forest, broad leaves growing over them in the foreground and a thin gap of pale sky far above.",
+      "col": "3 / span 5",
+      "align": "start",
+      "offset": 0
+    },
+    {
+      "id": "SN-01",
+      "source": "20261014_175719~2.jpg",
+      "series": "SN",
+      "title": "Line Noise",
+      "tags": ["cables", "storm", "silhouette"],
+      "alt": "Power lines slashing diagonally across a red and grey storm sky, above the silhouette of rooftops and a dark ridge.",
+      "col": "1 / span 10",
+      "align": "start",
+      "offset": 0
+    },
+    {
+      "id": "SN-02",
+      "source": "DSC06295.jpg",
+      "series": "SN",
+      "title": "Outlier",
+      "tags": ["mask", "ritual", "high-key"],
+      "alt": "A figure in a horned goat mask and shaggy costume with a painted ribcage, gripping a staff topped with skeletal hands, against a pale sky.",
+      "col": "1 / span 4",
+      "align": "end",
+      "offset": 0
+    },
+    {
+      "id": "SN-03",
+      "source": "DSC05645.jpg",
+      "series": "SN",
+      "title": "Signal Floor",
+      "tags": ["signage", "density", "type"],
+      "alt": "A narrow commercial street crowded with vertical Japanese signboards and paper lanterns, with an ornate street lamp at the centre.",
+      "col": "5 / span 8",
+      "align": "end",
+      "offset": 0
+    },
+    {
+      "id": "SN-04",
+      "source": "DSC00877.png",
+      "series": "SN",
+      "title": "Integration Time",
+      "tags": ["long exposure", "traffic", "brick"],
+      "alt": "Long exposure of a lit brick building at night, traffic reduced to pale horizontal streaks and a thin red line of light running across the facade.",
+      "col": "2 / span 11",
+      "align": "start",
+      "offset": 0
+    },
+    {
+      "id": "CH-01",
+      "source": "DSC01037.png",
+      "series": "CH",
+      "title": "Underside",
+      "tags": ["low-key", "concrete", "vanishing point"],
+      "alt": "Night view beneath an elevated concrete structure, columns and a steel footbridge receding along a paved walkway to a small lit street stall.",
+      "col": "1 / span 5",
+      "align": "end",
+      "offset": 0
+    },
+    {
+      "id": "CH-02",
+      "source": "DSC09417-Enhanced-NR.png",
+      "series": "CH",
+      "title": "Night Shift",
+      "tags": ["figure", "facade", "awning"],
+      "alt": "A person carrying a large black bag walks past a shuttered yellow and white colonial facade at night, lit from above by lamps under dark awnings.",
+      "col": "6 / span 7",
+      "align": "end",
+      "offset": 0
+    },
+    {
+      "id": "CH-03",
+      "source": "DSC05208.png",
+      "series": "CH",
+      "title": "Transmission",
+      "tags": ["low-key", "glass", "diagonal"],
+      "alt": "A rose window of stained glass photographed at a steep angle, its colours glowing out of complete darkness.",
+      "col": "2 / span 4",
+      "align": "start",
+      "offset": 0
+    },
+    {
+      "id": "CH-04",
+      "source": "DSC09218.png",
+      "series": "CH",
+      "title": "Bound",
+      "tags": ["mono", "portrait", "hands"],
+      "alt": "Black and white portrait of a bearded person in a knit cap, arms crossed over the chest, one hand wrapped in cloth, looking away.",
+      "col": "7 / span 5",
+      "align": "end",
+      "offset": 0
+    },
+    {
+      "id": "CH-05",
+      "source": "DSC09231-Enhanced-NR.png",
+      "series": "CH",
+      "title": "Two in the Array",
+      "tags": ["mono", "grid", "figure"],
+      "alt": "Black and white. A long wall of glowing glass panels divided by dark steel ribs, with a couple on a bench silhouetted behind a railing.",
+      "col": "1 / span 12",
+      "align": "start",
+      "offset": 0
+    }
+  ]
+}
