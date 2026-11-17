@@ -65,7 +65,13 @@ export function Footer() {
         Switch to Software &amp; AI Engineering Portfolio
         <span className="text-signal [.bridge:hover_&]:text-ink"> ]</span>
       </a>
-      <div className="mt-12 flex flex-wrap justify-between gap-2 text-[11px] tracking-wider text-ash uppercase md:mt-20">
+      <p className="mt-10 text-[11px] tracking-wider text-ash uppercase">
+        Contact // Prints, collaborations, work:{' '}
+        <a href={SITE.engineeringUrl} className="text-bone underline underline-offset-4 hover:text-signal">
+          reach me through the engineering portfolio
+        </a>
+      </p>
+      <div className="mt-6 flex flex-wrap justify-between gap-2 text-[11px] tracking-wider text-ash uppercase md:mt-12">
         <span>
           © {SITE.activeSince}–{new Date().getFullYear()} {SITE.author}
         </span>
